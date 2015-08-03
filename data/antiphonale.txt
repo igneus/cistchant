@@ -1,0 +1,306 @@
+Antiphonarium Cisterciense, Westmalle 1947
+#
+1: = Pars aestivalis et autumnalis - title page
+3: Mandatum Reverendissimi D. Dominici Nogues abbatis Cistercii necnon abbatis generalis Cisterciensium reformatorum seu strictioris observantiae
+4: Monitum editionis 1903
+7: = Proprium de tempore
+7: === In festo SS. Trinitatis
+7: ad vesperas
+11: ad vigilias
+12: in i. nocturno
+17: in ii. nocturno
+24: in iii. nocturno
+29: ad laudes
+31: ad primam
+31: ad tertiam
+32: ad sextam
+33: ad nonam
+33: in ii. vesperis
+36: === In festo Corporis Christi
+36: ad vesperas
+42: ad vigilias
+42: in i. nocturno
+49: in ii. nocturno
+56: in iii. nocturno
+62: ad laudes
+65: ad primam
+65: ad tertiam
+66: ad sextam
+67: ad nonam
+68: in ii. vesperis
+69: === Privatis diebus infra octavam Corporis Christi
+72: === Sabbato ante dominicam infra Oct.
+72: === Dominica infra octavam, quae est II. post Pentecosten
+72: ad vigilias
+72: in i. nocturno
+74: in ii. nocturno
+74: in iii. nocturno
+75: ad laudes
+75: ad primam
+75: ad tertiam
+76: ad sextam
+76: ad nonam
+76: ad vesperas
+77: === In octava Corporis Christi
+77: === Antiphonae dicendae in sabbatis post Pentecosten usque ad Adventum
+98: === Orationes et antiphonae ad Benedictus et Magnificat a dom. III. post Pentecosten usque ad Adventum
+98: dominica iii. post Pentecosten
+100: iv.
+101: v.
+103: vi.
+105: vii.
+106: viii.
+108: ix.
+110: x.
+111: xi.
+112: xii.
+113: xiii.
+115: xiv.
+116: xv.
+118: xvi.
+119: xvii.
+121: xviii.
+122: xix.
+123: xx.
+125: xxi.
+126: xxii.
+127: xxiii.
+128: dominica xxiv. et ultima post Pentecosten
+130: === Dominicae quae superfuerunt post Epiphaniam
+130: dominica iii. quae superfuit post Epiphaniam
+131: iv.
+133: v.
+134: vi.
+136: = Proprium Sanctorum
+136: == Festa Maji
+139: === In festo SS. Cordis Jesu
+140: ad vigilias
+140: in i. nocturno
+147: in ii. nocturno
+153: in iii. nocturno
+157: ad laudes
+158: ad primam
+158: ad tertiam
+153: ad sextam
+153: ad nonam
+153: in ii. vesperis
+162: == Festa Junii
+167: === xxiv. Junii In Nativitate S. Joannis Baptistae
+167: ad vesperas
+170: ad vigilias
+170: in i. nocturno
+177: in ii. nocturno
+183: in iii. nocturno
+188: ad laudes
+189: ad primam
+189: ad tertiam
+189: ad sextam
+189: ad nonam
+190: in ii. vesperis
+193: === Privatis diebus infra octavam S. Joannis Baptistae
+195: === xxvi. Junii In festo SS. Joannis et Pauli, martyrum
+198: === xxix. Junii In festo SS. Apostolorum Petri et Pauli
+198: ad vesperas
+200: ad vigilias
+201: in i. nocturno
+208: in ii. nocturno
+216: in iii. nocturno
+221: ad laudes
+222: ad primam
+223: ad tertiam
+223: ad sextam
+224: ad nonam
+224: in ii. vesperis
+225: === xxx. Junii In festo Commemorationis S. Pauli, apostoli
+225: ad vigilias
+225: in i. nocturno
+228: in ii. nocturno
+231: in iii. nocturno
+226: ad laudes
+233: ad primam
+233: ad tertiam
+233: ad sextam
+234: ad nonam
+234: in ii. vesperis
+236: === Infra octavam Apostolorum
+237: == Festa Julii
+237: === In festo Pretiosissimi Sanguinis Domini Nostri Jesu Christi
+237: ad vesperas
+238: ad vigilias
+239: in i. nocturno
+242: in ii. nocturno
+244: in iii. nocturno
+246: ad primam
+246: ad tertiam
+247: ad sextam
+247: ad nonam
+248: in ii. vesperis
+249: === ii. Julii In festo Visitationis Beatae Mariae Virginis
+249: ad vesperas
+253: ad vigilias
+253: in i. nocturno
+257: in ii. nocturno
+262: in iii. nocturno
+265: ad laudes
+266: ad primam
+267: ad tertiam
+267: ad sextam
+268: ad nonam
+268: in ii. vesperis
+269: === Privatis diebus infra octavam Visitationis B.M.V.
+271: === vi. Julii In octava SS. Apost. Petri et Pauli
+275: === xvi. Julii In festo S.P.N. Stephani tertii abbatis Cistercii
+275: ad vesperas
+280: ad vigilias etc.
+281: === Privatis diebus infra octavam S.P.N. Stephani
+282: === xvii. Julii In festo Commemorationis B.M.V. de monte Carmelo
+285: === xxii. Julii In festo S. Mariae Magdalenae
+285: ad vesperas
+287: ad vigilias
+288: in i. nocturno
+291: in iii. nocturno
+291: ad laudes
+292: ad primam etc.
+293: in ii. vesperis
+295: === xxvi. Julii In festo S. Annae, matris B.M. Virginis
+299: == Festa Augusti
+299: === i. Augusti In festo S. Petri ad Vincula
+299: ad vesperas
+301: ad vigilias etc.
+302: in ii. vesperis
+303: === iii. Augusti Inventionis S. Stephani, protomartyris
+305: === vi. Augusti In festo Transfigurationis Domini nostri Jesu Christi
+305: ad vesperas
+308: ad vigilias
+310: in i. nocturno
+312: in ii. nocturno
+314: in iii. nocturno
+315: ad laudes
+316: ad primam etc.
+317: in ii. vesperis
+318: === vii. Augusti In festo S. Cajetani Thienaei, confessoris
+320: === x. Augusti In festo S. Laurentii, martyris
+320: ad vesperas
+322: ad vigilias
+322: in i. nocturno
+325: in ii. nocturno
+327: in iii. nocturno
+328: ad laudes
+329: ad primam etc.
+330: === xi. Augusti In Susceptione S. Coronae
+330: ad vesperas
+334: ad vigilias
+334: in i. nocturno
+336: in ii. nocturno
+339: in iii. nocturno
+339: ad laudes
+340: ad primam etc.
+341: in ii. vesperis
+343: === xv. Augusti In festo Assumptionis B.M.V. ordinis patronae
+343: ad vesperas
+348: ad vigilias
+348: in i. nocturno
+353: in ii. nocturno
+357: in iii. nocturno
+361: ad laudes
+362: ad primam etc.
+363: in ii. vesperis
+365: === Privatis diebus infra octav. Assumptionis B.M.V.
+369: === xx. Augusti In festo S.P.N. Bernardi primi Claraevallis abb. et eccl. doct.
+369: ad vesperas
+373: ad vigilias
+374: in i. nocturno
+381: in ii. nocturno
+387: in iii. nocturno
+391: ad laudes
+393: ad primam etc.
+394: in ii. vesperis
+398: === In festo Purissimi Cordis Beatae Mariae Virginis
+398: in i. vesperis
+400: ad vigilias
+401: in i. nocturno
+403: in ii. nocturno
+405: in iii. nocturno
+406: ad laudes
+407: ad primam etc.
+410: === xxix. Augusti In Decollatione S. Joannis Baptistae
+412: in ii. vesperis
+416: == Festa Septembris
+417: === viii. Septembris In festo Nativitatis Beatae Mariae Virginis
+417: ad vesperas
+420: ad vigilias
+420: in i. nocturno
+425: in ii. nocturno
+428: in iii. nocturno
+432: ad laudes
+433: ad primam etc.
+434: in ii. vesperis
+437: === xiv. Septembris In festo Exaltationis S. Crucis
+540: === xiii. Novembris In festo Omnium Sanctorum Ordinis
+548: === xxii. Novembris In festo S. Caeciliae, Virginis et Martyris
+558: === xxiii. Novembris In festo S. Clementis, Papae et Martyris
+562: === xxiv. Novembris S. Chrysogoni, Martyris
+563: === xxv. Novembris In festo S. Catharinae, Virginis et Martyris
+563: === xxix. Novembris S. Saturnini, Martyris
+563: === xxix. Novembris In Vigilia S. Andreae, Apostoli
+564: === xxx. Novembris In festo S. Andreae, Apostoli
+576: == Festa Decembris
+576: === 1 xii S. Eligii, Episcopi et Confessoris
+576: === 2 xii S. Bibianae, Virginis et Martyris
+577: = Commune Sanctorum
+577: == Commune Apostolorum et Evangelistarum
+605: == Commune Unius Martyris
+605: ad vesperas
+609: ad vigilias
+609: in i. nocturno
+617: in ii. nocturno
+631: ad horas
+632: in ii. vesperis
+633: == Commune Plurimorum Martyrum
+633: ad vesperas
+637: in i. nocturno
+651: in iii. nocturno
+658: in ii. vesperis
+661: == Commune Confessoris Pontificis
+661: ad vesperas
+664: ad vigilias
+664: in i. nocturno
+669: in ii. nocturno
+675: in iii. nocturno
+681: ad laudes
+682: ad horas
+683: in ii. vesperis
+684: == Pro Doctoribus
+684: in utrisque vesperis
+686: == Commune Confessoris non Pontificis
+686: ad vesperas
+690: ad vigilias
+690: ad laudes
+694: == Commune Virginum
+694: ad vesperas
+698: ad vigilias
+698: in i. nocturno
+714: in iii. nocturno
+720: ad horas
+721: in ii. vesperis
+722: == Commune Sanctae Martyris tantum et nec Virginis nec Martyris
+722: ad vesperas
+725: ad vigilias
+725: in i. nocturno
+729: in iii. nocturno
+730: ad laudes ... in ii. vesperis
+731: == Commune Parvum Sanctorum
+731: ad vigilias
+733: == Commune Dedicationis Ecclesiae
+733: ad vesperas
+736: ad vigilias
+736: in i. nocturno
+743: in ii. nocturno
+758: ad laudes
+759: ad horas
+760: in ii. vesperis
+761: == Privatis Diebus infra Octavam Ad Vigilias
+763: == In Festis Beatae Mariae Virginis per annum
+763: ad vesperas
+766: ad vigilias
+766: in i. nocturno
