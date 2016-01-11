@@ -304,3 +304,23 @@ Antiphonarium Cisterciense, Westmalle 1947
 763: ad vesperas
 766: ad vigilias
 766: in i. nocturno
+774: in ii. nocturno
+782: in iii. nocturno
+788: ad laudes
+789: ad horas
+790: in ii. vesperis
+791: = Officia votiva
+791: == Officium de Sanctissimo Eucharistiae Sacramento
+791: ad vesperas
+792: ad vigilias
+793: ad laudes
+795: ad horas
+798: == Officium S. P. N. Bernardi, Abbatis et Ecclesiae Doctoris
+798: ad vesperas
+799: ad vigilias, laudes
+800: ad horas
+803: = Toni communes
+817: toni psalmi Venite
+832: = Indices
+# a painful lacuna here!
+839: = Infra hebdomadam III Adventus
