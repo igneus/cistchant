@@ -79,7 +79,3 @@ class IndexRenderer
     str.gsub(/in festo/i, '')
   end
 end
-
-if $0 == __FILE__
-  SplendorVeritatisIndices.run!
-end
