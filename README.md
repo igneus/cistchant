@@ -1,6 +1,9 @@
 # Cistercian Chant Indices
 
-Indices for the contents of the
-[Splendor Veritatis](http://splendorveritatis.org)
-website featuring large amount of scanned Cistercian (both observances)
-choir books.
+Sources of the application running
+at http://cistchant.yakub.cz
+
+The [Splendor Veritatis](http://splendorveritatis.org) website
+contains several Cistercian chant books scanned.
+This application provides a simple table of contents
+for easier navigation.
