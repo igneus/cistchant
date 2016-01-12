@@ -64,11 +64,8 @@ class IndexRenderer
     label = m[3]
 
     label = modify label
-
-    # temporarily skip everything but first-level headings
-    #return '' unless (1..3).include? heading_level
     
-    "<p><a href=\"#{page_url(page)}\" target=\"content\"><span class=\"pageno\">#{page}</span> #{label}</a></p>"
+    "<p class=\"lvl#{heading_level}\"><a href=\"#{page_url(page)}\" target=\"content\"><span class=\"pageno\">#{page}</span> #{label}</a></p>"
   end
 
   def error(str, line)
