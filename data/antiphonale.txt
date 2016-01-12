@@ -322,7 +322,7 @@ Antiphonarium Cisterciense, Westmalle 1947
 803: = Toni communes
 817: toni psalmi Venite
 832: = Indices
-# a painful lacuna here!
+839: = LACUNA; incipit pars hiemalis
 839: = Infra hebdomadam III Adventus
 839: feria ii
 840: feria iii
