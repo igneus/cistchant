@@ -324,3 +324,28 @@ Antiphonarium Cisterciense, Westmalle 1947
 832: = Indices
 # a painful lacuna here!
 839: = Infra hebdomadam III Adventus
+839: feria ii
+840: feria iii
+841: feria iv Quattuor temporum
+844: feria v
+845: feria vi Quattuor temporum
+848: sabbato Quattuor temporum
+851: = Dominica iv Adventus
+851: ad vigilias
+852: ad laudes
+852: ad horas
+854: ad vesperas
+856: = Infra hebdomadam IV Adventus
+856: feria ii
+856: feria iii
+857: feria iv
+858: feria v
+859: = Antiphonae Solemnes
+865: = In Vigilia Nativitatis Domini
+865: ad vigilias
+865: ad laudes
+867: ad horas
+870: = In Nativitate Domini
+870: ad vesperas
+874: ad vigilias
+875: in i. nocturno
