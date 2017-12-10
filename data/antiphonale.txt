@@ -323,29 +323,110 @@ Antiphonarium Cisterciense, Westmalle 1947
 817: toni psalmi Venite
 832: = Indices
 839: = LACUNA; incipit pars hiemalis
-839: = Infra hebdomadam III Adventus
+839: == Infra hebdomadam III Adventus
 839: feria ii
 840: feria iii
 841: feria iv Quattuor temporum
 844: feria v
 845: feria vi Quattuor temporum
 848: sabbato Quattuor temporum
-851: = Dominica iv Adventus
+851: == Dominica iv Adventus
 851: ad vigilias
 852: ad laudes
 852: ad horas
 854: ad vesperas
-856: = Infra hebdomadam IV Adventus
+856: == Infra hebdomadam IV Adventus
 856: feria ii
 856: feria iii
 857: feria iv
 858: feria v
-859: = Antiphonae Solemnes
-865: = In Vigilia Nativitatis Domini
+859: == Antiphonae Solemnes
+865: == In Vigilia Nativitatis Domini
 865: ad vigilias
 865: ad laudes
 867: ad horas
-870: = In Nativitate Domini
+870: == In Nativitate Domini
 870: ad vesperas
 874: ad vigilias
 875: in i. nocturno
+882: in ii. nocturno
+889: in iii. nocturno
+895: ad laudes
+897: ad horas
+900: in ii. vesperis
+904: == xxvi. Decembris In Festo S. Stephani, Protomartyris
+904: ad vigilias
+905: in i. nocturno
+909: in ii. nocturno
+914: in iii. nocturno
+920: ad laudes
+921: ad horas
+922: in ii. vesperis
+927: == xxvii Decembris In Festo S. Joannis, Apostoli et Evangelistae
+927: ad vigilias
+928: in i. nocturno
+932: in ii. nocturno
+936: in iii. nocturno
+941: ad laudes
+942: ad horas
+943: in ii. vesperis
+947: == xxviii Decembris In Festo SS. Innocentium
+947: ad vigilias
+948: in i. nocturno
+952: in ii. nocturno
+955: in iii. nocturno
+961: ad laudes
+963: ad horas
+965: in ii. vesperis
+967: == xxix Decembris In Festo S. Thomae, Episcopi et Martyris
+968: == Dominica Infra Octavam Nativitatis Domini
+969: ad vigilias, ad laudes
+970: ad horas
+973: == Sexta die infra Octavam Nativitatis Domini
+973: == xxxi Decembris In Festo S. Silvestri, Papae et Confessoris
+974: == Commemorationes de 4. Octavis
+974: pro Nativitate
+976: pro S. Stephano
+977: pro S. Joanne
+979: pro SS. Innocentibus
+980: == In Circumcisione et Octava Nativitatis Domini
+980: ad vesperas
+984: ad vigilias, in i. nocturno
+986: in ii. nocturno
+989: in iii. nocturno, ad laudes
+991: ad horas
+992: in ii. vesperis
+993: == ii Januarii In Octava S. Stephani Protomartyris
+994: == iii Januarii In Octava S. Joannis, Apostoli et Evangelistae
+994: == iv Januarii In Octava SS. Innocentium
+994: == v Januarii In Vigilia Epiphaniae
+996: == In Epiphania Domini
+996: ad vesperas
+1000: ad vigilias
+1001: in i. nocturno
+1006: in ii. nocturno
+1014: in iii. nocturno
+1019: ad laudes
+1021: ad horas
+1022: in ii. vesperis
+1023: == Privatis Diebus infra Octavam Epiphaniae
+1024: == Sabbato ante Dominicam infra Octavam Epiphaniae
+1025: == Dominica infra Octavam Epiphaniae
+1027: == Sabbato
+1028: == In Octava Epiphaniae
+1028: in i. vesperis
+1029: ad vigilias, ad laudes
+1030: ad horas
+1032: in ii. vesperis
+1033: == Sabbato primo post Octavam Epiphaniae
+1034: == Dominica ii. post Epiphaniam
+1036: == Sabbato ante Dominicam iii. post Epiphaniam
+1036: == Dominica iii. post Epiphaniam
+1038: == Sabbato ante Dominicam iv. post Epiphaniam
+1039: == Dominica iv. post Epiphaniam
+1040: == Sabbato ante Dominicam v. post Epiphaniam
+1040: == Dominica v. post Epiphaniam
+1042: == Sabbato ante Dominicam vi. post Epiphaniam
+1042: == Dominica vi. post Epiphaniam
+1043: == Sabbato ante Septuagesimam
+1045: == Dominica In Septuagesima
