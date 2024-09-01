@@ -1,18 +1,45 @@
-require 'nyny'
-require 'haml'
+require 'fileutils'
 
-class SplendorVeritatisIndices < NYNY::App
-  get '/' do
+require 'tilt'
+require 'tilt/haml'
+require 'tilt/erb'
+
+module StaticSiteDsl
+  def page(name, &blk)
+    @pages ||= {}
+    @pages[name] = blk
+  end
+
+  def call
+    dir = 'site'
+    FileUtils.mkdir_p dir
+
+    @pages.each_pair do |name, proc|
+      File.open(File.join(dir, name + '.html'), 'w') do |fw|
+        fw.puts proc.call
+      end
+    end
+  end
+
+  def render(template, &blk)
+    Tilt.new(template).render(&blk)
+  end
+end
+
+class SplendorVeritatisIndices
+  extend StaticSiteDsl
+
+  page 'index' do
     render 'views/frames.erb'
   end
 
-  get '/intro' do
+  page 'intro' do
     render 'views/_layout.haml' do
       render 'views/intro.erb'
     end
   end
 
-  get '/antiphonale' do
+  page 'antiphonale' do
     render 'views/_layout.haml' do
       IndexRenderer.new('antiphonale').render
     end
@@ -23,7 +50,7 @@ class IndexRenderer
   def initialize(index)
     @index = index
 
-    @site = 'http://splendorveritatis.org'
+    @site = 'http://unpeudetout.info/splendorveritatis' # originally 'http://splendorveritatis.org'
     @book_path = @index
   end
 
@@ -64,7 +91,7 @@ class IndexRenderer
     label = m[3]
 
     label = modify label
-    
+
     "<p class=\"lvl#{heading_level}\"><a href=\"#{page_url(page)}\" target=\"content\"><span class=\"pageno\">#{page}</span> #{label}</a></p>"
   end
 
@@ -76,3 +103,5 @@ class IndexRenderer
     str.gsub(/in festo/i, '')
   end
 end
+
+SplendorVeritatisIndices.call

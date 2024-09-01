@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'nyny'
 gem 'haml'
+gem 'rake'
+gem 'tilt'
