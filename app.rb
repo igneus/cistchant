@@ -80,7 +80,7 @@ class IndexRenderer
   end
 
   def entry(str, line)
-    m = str.match(/^(\d+)\:\s+(=*)(.*)$/)
+    m = str.match(/^(\d+)\s+(=*)(.*)$/)
 
     if m.nil?
       return error(str, line)
@@ -90,7 +90,7 @@ class IndexRenderer
     heading_level = m[2].size rescue 0
     label = m[3]
 
-    label = modify label
+    label = modify label, heading_level
 
     "<p class=\"lvl#{heading_level}\"><a href=\"#{page_url(page)}\" target=\"content\"><span class=\"pageno\">#{page}</span> #{label}</a></p>"
   end
@@ -99,8 +99,26 @@ class IndexRenderer
     "<p><b>Error on line #{line}: '#{str}'</b></p>"
   end
 
-  def modify(str)
-    str.gsub(/in festo/i, '')
+  def modify(str, heading_level)
+    shortcuts = {
+      'v' => 'ad vesperas',
+      'vig' => 'ad vigilias',
+      'n1' => 'in i. nocturno',
+      'n2' => 'in ii. nocturno',
+      'n3' => 'in iii.nocturno',
+      'L' => 'ad laudes', # uppercase, in order to avoid l vs. 1 confusion
+      '1' => 'ad primam',
+      '3' => 'ad tertiam',
+      '6' => 'ad sextam',
+      '9' => 'ad nonam',
+      'v2' => 'in ii. vesperis',
+    }
+
+    str
+      .gsub(/in festo/i, '')
+      .gsub(/[a-zL0-9]+/) do |match|
+      ((heading_level == 0) && shortcuts[match]) || match
+    end
   end
 end
 
