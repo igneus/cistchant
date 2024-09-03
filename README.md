@@ -1,7 +1,6 @@
 # Cistercian Chant Indices
 
-Sources of the application running
-at http://cistchant.yakub.cz
+Sources of http://cistchant.yakub.cz
 
 The *Splendor Veritatis* website
 (originally http://splendorveritatis.org, now defunct;
