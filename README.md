@@ -14,9 +14,10 @@ a simple table of contents for easier navigation in some of them.
 
 ## Build
 
+(No install needed, only Ruby standard library is used.)
+
 ```sh
-$ bundle install
-$ rake
+$ ruby app.rb
 ```
 
 builds a static website in `site/`

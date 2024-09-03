@@ -1,8 +1,5 @@
+require 'erb'
 require 'fileutils'
-
-require 'tilt'
-require 'tilt/haml'
-require 'tilt/erb'
 
 module StaticSiteDsl
   def page(name, &blk)
@@ -22,25 +19,31 @@ module StaticSiteDsl
   end
 
   def render(template, &blk)
-    Tilt.new(template).render(&blk)
+    ERB.new(File.read(template)).result(binding, &blk)
   end
 end
 
 class SplendorVeritatisIndices
   extend StaticSiteDsl
 
+  def self.layout
+    render 'views/_layout.erb' do
+      yield
+    end
+  end
+
   page 'index' do
     render 'views/frames.erb'
   end
 
   page 'intro' do
-    render 'views/_layout.haml' do
+    layout do
       render 'views/intro.erb'
     end
   end
 
   page 'antiphonale' do
-    render 'views/_layout.haml' do
+    layout do
       IndexRenderer.new('antiphonale').render
     end
   end

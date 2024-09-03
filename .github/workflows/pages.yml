@@ -17,10 +17,8 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.5.1
-      - name: Install Dependencies
-        run: bundle install --jobs=3 --deployment --without development
       - name: Build
-        run: bundle exec rake
+        run: ruby app.rb
       - name: Upload Github Pages Artifact
         uses: actions/upload-pages-artifact@v3
         with:
