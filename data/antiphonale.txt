@@ -322,6 +322,13 @@ Antiphonarium Cisterciense, Westmalle 1947
 803 = Toni communes
 817 toni psalmi Venite
 832 = Indices
+832 == Index Generalis
+832 == Index Specialis rerum quae habentur in tonis communibus
+832 == Index Alphabeticus omnium Festorum et Officiorum
+834 == Index Alphabeticus Invitatoriorum, Antiphonarum et Responsoriorum
+834 Invitatoria
+834 Antiphonae
+837 Responsoria
 839 = LACUNA; incipit pars hiemalis
 839 == Infra hebdomadam III Adventus
 839 feria ii
@@ -469,3 +476,65 @@ Antiphonarium Cisterciense, Westmalle 1947
 1083 vig, L
 1084 1, 3, 6
 1085 9, v
+1085 == Feria Secunda
+1086 == Feria Tertia
+1087 == Feria Quarta
+1088 == Feria Quinta
+1089 == Feria Sexta
+1090 == Sabbato
+1092 == Dominica iii. in Quadragesima
+1092 vig
+1093 L, 1
+1094 3, 6
+1095 9, v
+1096 == Feria Secunda
+1097 == Feria Tertia
+1098 == Feria Quarta
+1099 == Feria Quinta
+1100 == Feria Sexta
+1101 == Sabbato
+1103 == Dominica iv. in Quadragesima
+1103 vig, L
+1105 1, 3
+1106 6, 9, v
+1107 == Feria Secunda
+1108 == Feria Tertia
+1109 == Feria Quarta
+1111 == Feria Quinta
+1112 == Feria Sexta
+1113 == Sabbato
+1113 == Sabbato ante Dominicam Passionis
+1115 == Dominica de Passione
+1115 vig, L
+1117 1, 3
+1118 6, 9
+1119 v
+1119 == Feria Secunda
+1119 vig
+1120 L, 1, 3
+1121 6, 9, v
+1122 == Feria Tertia
+1123 == Feria Quarta
+1124 == Feria Quinta
+1125 == Feria Sexta
+1126 == Sabbato
+1129 == Dominica in Palmis
+1129 vig, L
+1130 1
+1131 3
+1132 6, 9
+1133 v
+1134 == Feria Secunda
+1134 vig, L
+1135 1, 3
+1136 6, 9
+1137 v
+1137 == Feria Tertia
+1137 L
+1138 1, 3
+1139 6, 9
+1140 v
+1140 == Feria Quarta
+1140 L
+1142 1, 3
+1143 6, 9, v
