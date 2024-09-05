@@ -115,6 +115,7 @@ class IndexRenderer
       '6' => 'ad sextam',
       '9' => 'ad nonam',
       'v2' => 'in ii. vesperis',
+      'c' => 'ad completorium',
     }
 
     str
